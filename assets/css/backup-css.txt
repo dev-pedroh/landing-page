@@ -1,0 +1,39 @@
+.container-quem-somos {
+  height: 400px;
+  margin: 50px 200px;
+  display: flex;
+  justify-content: space-evenly;
+  font-family: "Open Sans", sans-serif;
+}
+.container-quem-somos-1 {
+  width: 400px;
+}
+.container-no-que-acreditamos-2 {
+  width: 400px;
+}
+.titulo-quem-somos {
+  margin: 20px;
+  color: #302f2f;
+  font-weight: 700;
+  font-size: 35px;
+}
+.texto-quem-somos {
+  margin: 20px;
+  padding: 30px 0;
+  color: #4f4c4c;
+  font-size: 20px;
+  word-spacing: 4px;
+}
+.titulo-no-que-acreditamos {
+  margin: 20px;
+  color: #302f2f;
+  font-weight: 700;
+  font-size: 35px;
+}
+.texto-no-que-acreditamos {
+  margin: 20px;
+  padding: 30px 0;
+  color: #4f4c4c;
+  font-size: 20px;
+  word-spacing: 4px;
+}
